@@ -1,0 +1,40 @@
+body {
+    margin: auto;
+    text-align: center;
+    justify-items: center;
+    font-family: "outfit";
+    max-width: 1440px;
+    background: whitesmoke;
+}
+
+.container {
+    height: 570px;
+    width: 360px;
+    background: white;
+    border-radius: 10px;
+    margin-left: 500px;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+h4 {
+    font-size: 1.7rem;
+    padding: 10px;
+    font-weight: 700px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: hsl(218, 44%, 22%);
+}
+
+p {
+    font-size: 20px;
+    font-weight: lighter;
+    color: gray;
+    padding: 5px;
+    margin-top: 15px;
+}
